@@ -1,15 +1,16 @@
+### Language options:
+- [Switch to Turkish](README-tr.md)
 # Backend Learning Journey with Dart Frog
 
 This repository is dedicated to my journey of learning backend development using **Dart Frog**. Throughout this repository, I will document my learnings, share code examples, and create tutorials to explain various backend concepts. By the end of this journey, I aim to have a clear understanding of backend development and be able to build professional backend applications using Dart Frog.
 
 ## Table of Contents
 
-1. [Understanding Backend Basics](#1-understanding-backend-basics)
-2. [Getting Started with Dart Frog](#2-getting-started-with-dart-frog)
-3. [Database Management](#3-database-management)
-4. [Authentication and Authorization](#4-authentication-and-authorization)
-5. [Advanced Topics](#5-advanced-topics)
-6. [Building Practical Projects](#6-building-practical-projects)
+1. [Basics : Backend Basics & Dart Frog](#1-understanding-backend-basics)
+2. [Database Management](#3-database-management)
+3. [Authentication and Authorization](#4-authentication-and-authorization)
+4. [Advanced Topics](#5-advanced-topics)
+5. [Building Practical Projects](#6-building-practical-projects)
 
 # 1. BASICS
 ## A-Understanding Backend Basics
