@@ -10,7 +10,6 @@ This repository is dedicated to my journey of learning backend development using
 4. [Authentication and Authorization](#4-authentication-and-authorization)
 5. [Advanced Topics](#5-advanced-topics)
 6. [Building Practical Projects](#6-building-practical-projects)
-7. [Learning and Documentation Strategy](#7-learning-and-documentation-strategy)
 
 ## 1. Understanding Backend Basics
 
@@ -110,21 +109,6 @@ Build a real-world application that integrates everything you've learned so far,
 
 ---
 
-## 7. Learning and Documentation Strategy
-
-- **Document Every Topic:**
-  - Write everything you learn in Markdown files (e.g., `01-backend-basics.md`).
-  
-- **Explain Code Examples:**
-  - For every code snippet you add, provide an explanation in the README to ensure clarity.
-  
-- **GitHub Workflow:**
-  - Create a new branch for each topic and commit your progress. Example commit: `Add basic authentication middleware`.
-
-📚 **What You'll Learn:**  
-Document and organize your learnings in a clear and structured way. This helps reinforce your understanding and creates a valuable resource for others.
-
----
 
 ## Final Thoughts
 
