@@ -52,7 +52,7 @@ HTTP request types define what kind of operation will be performed with the data
   "age": 30,
   "city": "New York"
 }
-
+```
 This JSON represents a person named "Alice" who is 30 years old and lives in New York. JSON allows data to be structured and transferred in an easy-to-read format.
 
 **Data Exchange**
