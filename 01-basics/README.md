@@ -1,5 +1,5 @@
 ## Language options:
-- [Switch to Turkish](../README-tr.md)
+- [Switch to Turkish](README-tr.md)
 
 # Getting Started with Backend
 
