@@ -11,7 +11,8 @@ This repository is dedicated to my journey of learning backend development using
 5. [Advanced Topics](#5-advanced-topics)
 6. [Building Practical Projects](#6-building-practical-projects)
 
-## 1. Understanding Backend Basics
+# 1. BASICS
+## A-Understanding Backend Basics
 
 - **HTTP & REST APIs:**
   - What is HTTP?
@@ -29,7 +30,7 @@ Understand the core principles of backend development, focusing on how backend s
 
 ---
 
-## 2. Getting Started with Dart Frog
+## B-Getting Started with Dart Frog
 
 - **Dart Frog Setup:**
   - Install Dart Frog and create a simple "Hello, World!" endpoint.
