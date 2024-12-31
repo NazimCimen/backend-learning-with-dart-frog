@@ -19,10 +19,6 @@ To get started in backend development, you need to understand the following basi
 ### Client-Server Model
 - Understand how the backend communicates with the frontend.
 
-📚 **Step:**
-- Watch blog articles and videos to grasp these concepts.
-- Upload your notes to GitHub in Markdown format (e.g., `01-backend-basics.md`).
-
 ---
 
 ## 2. Getting Started with Dart Frog
