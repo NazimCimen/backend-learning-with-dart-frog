@@ -23,7 +23,7 @@ To get started in backend development, you need to understand the following basi
 
 ## 2. Getting Started with Dart Frog
 
-Dart Frog is an excellent backend framework for Dart developers. Follow these steps:
+Dart Frog is an backend framework for Dart developers. Follow these steps:
 
 ### Dart Frog Installation
 - Install Dart Frog and create a simple "Hello, World!" endpoint.
