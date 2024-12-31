@@ -1,3 +1,6 @@
+## Language options:
+- [Switch to Turkish](../README-tr.md)
+
 # Getting Started with Backend
 
 This guide is designed to help you understand the fundamental concepts you need as you take your first steps into the backend world. Below, key concepts such as HTTP, JSON, REST APIs, and the Client-Server model are explained with metaphors, followed by more technical definitions for a deeper understanding.
