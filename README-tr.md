@@ -1,6 +1,6 @@
 ### Dil seçenekleri:
 - [İngilizceye geç](README.md)
-# Dart Frog ile Backend Öğrenme Yolculuğum
+# Dart Frog ile Backend Öğrenme Yolculuğu
 
 Bu repository, **Dart Frog** kullanarak backend geliştirme öğrenme yolculuğuma adanmıştır. Bu repository boyunca, öğrendiklerimi belgeleyecek, kod örnekleri paylaşacak ve çeşitli backend kavramlarını açıklayan öğreticiler oluşturacağım. Bu yolculuğun sonunda, backend geliştirme konusunda net bir anlayışa sahip olmayı ve Dart Frog kullanarak profesyonel backend uygulamaları geliştirebilmeyi hedefliyorum.
 
