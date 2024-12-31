@@ -1,3 +1,6 @@
+## Dil seçenekleri:
+- [İngilizceye geç](README.md)
+
 # Backend Öğrenmeye Başlangıç
 
 Bu rehber, backend dünyasına ilk adımınızı atarken ihtiyacınız olan temel bilgileri anlamanızı sağlamak amacıyla hazırlanmıştır. Aşağıda HTTP, JSON, REST API, Client-Server modeli gibi temel kavramlar metaforlarla açıklanmış ve ardından teknik terimler ile daha derinlemesine anlatılmıştır.
